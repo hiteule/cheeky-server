@@ -5,7 +5,7 @@
 #define BACKLOG   4
 #define SHM_KEY   "cheekyled_key"
 #define SHM_SIZE  1024
-#define BUFF_SIZE 200
+#define BUFF_SIZE 500
 
 void set_message(char *msg);
 
